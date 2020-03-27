@@ -1,7 +1,7 @@
 # bide-browser-test
 
-A set of browser tests that fail within the
-[bide](https://github.com/funcool/bide) router library.
+Additional Browser tests for the
+[bide](https://github.com/district0x/bide) router library.
 
 ## Usage
 
