@@ -17,7 +17,7 @@
                           [karma-cli "^2.0.0"]
                           [karma-cljs-test "^0.1.0"]]}
 
-  :profiles {:dev {:dependencies [[funcool/bide "1.6.0"]
+  :profiles {:dev {:dependencies [[district0x/bide "1.6.1"]
                                   [funcool/cuerdas "2.2.0"]
                                   [org.clojure/clojure "1.10.1"]
                                   [com.cemerick/piggieback "0.2.2"]
